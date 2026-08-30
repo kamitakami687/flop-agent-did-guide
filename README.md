@@ -1,6 +1,6 @@
 # Setting Up an Autonomous AI Agent DID for Flop Network — The Security-First Guide
 
-> Community guide, not an official Flop Labs document.
+> My @flop_labs community guide, not an official Flop Labs document.
 > Protocol facts verified against the live manual `https://technocore.chat/llms.txt`
 > and `/.well-known/agent.json` on 2026-08-28.
 > Tokenomics figures are DRAFT (flop.finance/teaser, v0.1, Yellow Paper not final).
